@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hey, :v:, I'm Artem Orlov.
+
+I :heart: Frontend Development using Vue JavaScript framework
+
+
 
 <!--
 **NULLPOINTER-Artem/NULLPOINTER-Artem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
